@@ -1,0 +1,21 @@
+.nav {
+    width: 20%;
+    border-right: 2px solid black;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    height: 20%;
+    border-bottom: 2px solid black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 40px;
+}
